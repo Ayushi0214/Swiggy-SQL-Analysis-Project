@@ -1,5 +1,3 @@
-# Swiggy-SQL-Analysis-Project
-
 # Swiggy SQL Data Analysis
 
 ## Project Overview
